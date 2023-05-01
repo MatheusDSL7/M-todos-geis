@@ -17,6 +17,9 @@ Para facilitar, neste artigo, você entenderá melhor o que é a metodologia Scr
 
 # O que é a metodologia Scrum?  <h1>
 
+![639fb82ee9b4747e103aa877_Base-imagem-destacada-blog](https://user-images.githubusercontent.com/127449477/235484839-ccad3ec8-1e83-471f-ad43-cea68af65bae.png)
+
+
 ##  A metodologia Scrum é um framework simples para trabalhar com projetos complexos, criada pelos desenvolvedores Ken Schwaber e Jeff Sutherland.
 
 Ela faz parte das metodologias ágeis e é comumente utilizada por desenvolvedores de softwares e sistemas.
