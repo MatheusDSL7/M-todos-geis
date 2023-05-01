@@ -1,5 +1,7 @@
 # Métodos Ágeis <h1>
 
+![31823189](https://user-images.githubusercontent.com/127449477/235482520-7f0e10d4-9af8-4485-a474-5d51acd6a33d.png)
+  
 ## Sobre o que estamos falando? <h2>
 
 ### Baseada em métodos ágeis, a metodologia Scrum tem como principal objetivo reduzir o tempo de entrega de produtos;
