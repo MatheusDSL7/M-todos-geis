@@ -47,6 +47,8 @@ Mas quando a metodologia Scrum é a mais adequada para a sua empresa?
 Ela é ideal para equipes nos mais variados cenários, desde times enxutos de desenvolvedores a grandes editorias de uma revista. <h3>
 
 #  O que é Scrum Master
+
+![scrum-master-many-hats](https://user-images.githubusercontent.com/127449477/236045053-7f21ae42-b823-4284-b622-8348a0dddfd6.png)
 ##  Scrum Master é um dos papéis essenciais na metodologia Scrum
 
 
@@ -76,6 +78,8 @@ De acordo com Dimes, isso é ainda mais relevante para empresas que estão recé
 Agora que você conhece o papel do Scrum Master, que tal aproveitar para conhecer de forma breve a função dos outros profissionais?
 
 #  Product Owner
+
+![52b027a4-251a-433c-b723-84403d1c49ea](https://user-images.githubusercontent.com/127449477/236045236-de5f8db3-5e39-4f30-b81b-7d323a1469ed.jpg)
 É o responsável por definir quais recursos e funcionalidades serão utilizados e construídos, além de definir a prioridade de cada um.
 
 
@@ -84,6 +88,8 @@ O Product Owner também estabelece as expectativas em relação ao produto final
 
 
 #  Scrum Team
+
+![1_uq87fwfc1kdoudh7j82fea](https://user-images.githubusercontent.com/127449477/236045499-907f4626-59c3-4d16-b885-08c7ec2a2e63.png)
 É a equipe multidisciplinar que se torna responsável pelo desenvolvimento e entrega do produto.
 
 A equipe recebe o apoio do Scrum Master para organizar os processos dentro da metodologia Scrum, com a finalidade de cumprir o que foi definido no planejamento pelo Product Owner.
@@ -140,3 +146,115 @@ Troy Dimes afirma que o Scrum considera uma abordagem mais humana para soluciona
 
 
 #  Como funciona a metodologia Scrum
+
+
+Na prática, a metodologia Scrum funciona de maneira simples e dinâmica.
+
+
+O processo começa com a visão inicial do produto e um planejamento realizado pelo Product Owner.
+
+
+Em seguida, esse planejamento é desmembrado nas funcionalidades do produto em uma lista, chamada de Product Backlog.
+
+
+Nessa etapa, é fundamental que o Product Owner defina prioridades para implementar as funcionalidades ao longo do projeto.
+
+
+A partir dessa definição, o projeto é dividido em ciclos, os Sprints, que geralmente têm de duas a quatro semanas de duração.
+
+
+O Sprint é o período de tempo em que o conjunto de atividades definidas no Product Backlog devem ser colocadas em prática.
+
+
+Antes de iniciar o Sprint, a equipe se reúne para planejar as tarefas a serem implementadas, ter uma visão clara das prioridades e do que se espera do ciclo.
+
+
+As tarefas designadas para cada Sprint são deslocadas do Product Backlog para o Sprint Backlog.
+
+
+Durante a execução do Sprint, a equipe deve fazer um Daily Scrum: uma reunião diária em que cada colaborador deve pontuar o que fez no dia anterior, o que irá fazer hoje e quais impedimentos existem.
+
+
+E assim o processo segue até o fim do Sprint, momento em que é realizada uma reunião de revisão das funcionalidades implementadas, a fim de validar o produto.
+
+
+Também é nesse momento que se faz uma retrospectiva do Sprint, em que a equipe avalia o processo, identifica necessidades de adaptação e começa o planejamento do novo Sprint.
+
+
+Esse ciclo se repete até a entrega do produto final ao cliente.
+
+
+#  Como usar o método Scrum na empresa
+Depois de conhecer o método Scrum, você vai conferir, na sequência, sete passos essenciais para implementá-lo com sucesso na sua empresa.
+
+
+##  1. Monte a equipe
+
+
+O primeiro passo é montar uma equipe multidisciplinar, capaz de realizar todas as etapas do desenvolvimento do produto.
+
+
+Esse também é o momento de delegar os papéis centrais do Scrum: Product Owner e Scrum Master e, claro, os demais colaboradores que farão parte do time.
+
+
+Lembre-se de que o Scrum Master deve ser alguém com entendimento da metodologia Scrum.
+
+
+#  2. Crie o Product Backlog
+A segunda etapa é iniciar o planejamento no Product Backlog, definindo as funcionalidades do produto e, posteriormente, estabelecendo ordem de prioridade na lista.
+
+
+É importante frisar que o Product Backlog pode ser alterado durante o processo, à medida em que novas necessidades surgem.
+
+
+Essas alterações devem ser feitas pelo Product Owner.
+
+
+#  3. Planeje o Sprint
+Depois, faça o planejamento dos Sprints de trabalho.
+
+
+Qual será o tempo de duração, considerando que eles devem seguir um padrão?
+
+
+Quais atividades serão realizadas em cada Sprint e quem serão os responsáveis por ela?
+
+
+Fazer esse planejamento é essencial para dar continuidade ao processo.
+
+
+#  4. Organize o processo de forma visual
+Organizar o processo de forma visual ajuda a acompanhar o seu andamento, permitindo a verificação do status de cada atividade.
+
+
+Para isso, a dica é utilizar o Kanban, outra metodologia ágil, que tem como objetivo classificar as tarefas em três fases: o que deve ser feito, o que está em andamento e o que já foi finalizado.
+
+
+
+É possível, por exemplo, colocar post-its em um quadro dividido ou recorrer a ferramentas digitais de gerenciamento de projetos.
+
+
+#  5. Realize o Daily Meet
+Não negligencie esta etapa, pois as reuniões diárias são fundamentais para analisar o que deu errado e o que foi positivo no dia anterior e para planejar o dia de trabalho da equipe.
+
+
+#  6. Tenha transparência em todas as etapas
+Toda a equipe precisa ter uma visão clara dos processos, requisitos de entrega e status das tarefas.
+
+
+Transparência, portanto, é essencial quando se trabalha com a metodologia Scrum.
+
+
+#  7. Dê e receba feedback
+Principalmente se você está recém inserindo esse processo na empresa, o feedback é uma ferramenta indispensável.
+
+
+Dê feedback aos colaboradores sobre pontos fortes e melhorias a serem realizadas.
+
+
+Da mesma forma, peça a opinião da equipe em relação à implementação da metodologia Scrum, de maneira que você possa fazer melhorias contínuas na sua aplicação.
+
+
+Depois de ler esse passo a passo, você está pronto para inserir o Scrum nas rotinas da empresa.
+
+
